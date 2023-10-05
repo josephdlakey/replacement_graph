@@ -13,13 +13,19 @@ cornergraph.m: graph for augmented laplacian
 
 cycle.m: adjacency matrix of a cycle
 
+cycle_replacement_graph: vertex replacement of a cycle
+
 cyclesub.m: adjacency matrix of vertex substitution on a cycle
+
+dyadic_reindex.m: lexicographic order of first 2^N whole numbers
 
 dyad_reindex_matrix.m: reindex rows and columns according to dyadic lexicographic order
 
 neumann_augmented.m: change of basis from Neumann eigenvectors to eigenvectors of augmented Laplacian
 
 submatrix_add.m: add a sub matrix in a particular entry
+
+torus.m: adjacency matrix of a torus
 
 torus_cutoff_graph.m: cutoff of adjacency matrix of a torus
 
